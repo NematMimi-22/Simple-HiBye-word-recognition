@@ -8,5 +8,5 @@ This system can recognize the ‘Hi’ and ‘Bye’ words spoken from different
 There was a problem in determining the gender of the speaker in some cases. Sometimes, the system gave ‘female’ as a result of the spoken record while it was ‘male’ and vice versa. 
 
 Done By: 
-Nqaa Ladadweh 
+Nqaa Ladadweh,  
 Nemat Mimi
